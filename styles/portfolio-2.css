@@ -54,6 +54,7 @@ color: #33323D;
 
 }
 
+
 .color:hover+.dropdawn__manu,
 .dropdawn__manu:hover{
 display: block;
@@ -83,6 +84,10 @@ display: block;
   color: white;
 }
 
+.red{
+  color: red;
+}
+
 .sec-1{
   margin-bottom: 115px;
 }
@@ -96,6 +101,16 @@ display: block;
 
 .portfolio-3{
   background-color: #5267E0;
+}
+
+.portfolio-4{
+  background-color: #9A99AB;
+  
+}
+
+.portfolio-5{
+  background-color: #41B4D3;
+  
 }
 
 .sec-1__img__img{
